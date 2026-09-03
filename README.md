@@ -16,7 +16,7 @@ Contains 73 cards and 5 relics.
 
 LegendBegins and GeminiDark for creating the original mod.
 
-Jet Storm for getting permission to make this mod, and playtesting it.
+Jet Storm for getting permission to make this mod, helping make and balance cards and relics, and play testing it.
 
 mymoddownloader on nexus for reporting bugs.
 

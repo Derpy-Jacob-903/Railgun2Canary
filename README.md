@@ -8,7 +8,7 @@ Port/Rework of the original Slay The Spire mod.
 
 > "A mod to add Mikoto Misaka to Slay the Spire 2. She's built to have a few different deck types, but is mostly based around Volt Orbs. Due to this she can be either an offensive powerhouse or a defensive tank."
 
-Contains 73 cards and 5 relics.
+Contains 86 cards and 5 relics.
 
 
 

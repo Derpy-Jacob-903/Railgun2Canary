@@ -3,10 +3,10 @@
   "name": "TheRailgun2",
   "author": "Derpy_Jacob_903",
   "description": "Slay the Spire 2 mod that adds Mikoto Misaka as a playable character.",
-  "version": "v2.0.2",
+  "version": "v2.0.3",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": [{"id": "BaseLib", "min_version": "3.4.7"}],
-  "min_game_version": "0.109.0",
+  "dependencies": [{"id": "BaseLib", "min_version": "3.4.8"}],
+  "min_game_version": "0.113.0",
   "affects_gameplay": true
 }
